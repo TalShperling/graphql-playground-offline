@@ -1,0 +1,18 @@
+{
+  "name": "graphql-playground-offline",
+  "version": "1.0.0",
+  "description": "An offline cdn to serve the graphql playground's files",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "playground",
+    "graphql",
+    "offline",
+    "playground-offline"
+  ],
+  "author": "Tal Shperling",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

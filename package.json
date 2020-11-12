@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "An offline cdn to serve the graphql playground's files",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "keywords": [
     "playground",
     "graphql",

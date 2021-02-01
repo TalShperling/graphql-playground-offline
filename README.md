@@ -29,4 +29,4 @@ const server: ApolloServer = new ApolloServer({
 * Express
 * Playground
 
-# Please give a star if it heleped you!
+# Please give a star if it helped you!
